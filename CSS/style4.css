@@ -457,7 +457,7 @@ td{
   height: 450px;
   grid-row: 1/1;
   grid-column: 1/2;
-  background-image: url("/Users/yamanakatakashiou/Documents/プログラミング用/LP/img/recruit.png");
+  background-image: url("../img/recruit.png");
 }
 .recruit__text {
   text-align: center;
@@ -473,7 +473,7 @@ td{
   height: 450px;
   grid-row: 1/1;
   grid-column: 2/3;
-  background-image: url("/Users/yamanakatakashiou/Documents/プログラミング用/LP/img/interview.png");
+  background-image: url("../img/interview.png");
 }
 .interview__text {
   text-align: center;
