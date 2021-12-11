@@ -205,7 +205,7 @@ a {
 }
 .service__card__parents {
   display: grid;
-  grid-template-rows: 350px 350px;
+  grid-template-rows: 280px 280px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   margin-left: 30px;
   margin-top: 30px;
@@ -218,7 +218,7 @@ a {
   background: #c9184a;
 }
 .service__img1 {
-  width: 300px;
+  width: 200px;
   margin-top: 100px;
 }
 .service__contents__title1 {
@@ -249,8 +249,8 @@ a {
   justify-content: space-around;
 }
 .service__img2 {
-  width: 300px;
-  margin-top: 25px;
+  width: 200px;
+  margin-top: 50px;
 }
 .service__contents__title2 {
   color: white;
@@ -279,8 +279,8 @@ a {
   justify-content: space-around;
 }
 .service__img3 {
-  width: 300px;
-  margin-top: 25px;
+  width: 200px;
+  margin-top: 50px;
 }
 .service__contents__title3 {
   color: white;
