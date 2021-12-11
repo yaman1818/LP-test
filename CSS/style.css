@@ -30,6 +30,7 @@ a {
 }
 .welcome__space__img {
   position: absolute;
+  width: 70%;
   top: 0;
   right: 0px;
   margin: 0px auto;
@@ -37,7 +38,7 @@ a {
 .title {
   position: absolute;
   padding-bottom: 30px;
-  font-size: 50px;
+  font-size: 3vw;
   z-index: 10;
   color: #f07167;
   font-family: Nunito Sans;
@@ -50,7 +51,7 @@ a {
   left: 20%;
   font-family: Nunito Sans;
   padding-bottom: 30px;
-  font-size: 50px;
+  font-size: 3vw;
   z-index: 10;
   color: #f07167;
 }
@@ -58,6 +59,7 @@ a {
   position: absolute;
   top: 375px;
   left: 20%;
+  font-size: 1.5vw;
   z-index: 10;
   color: #f07167;
   font-weight: bold;
@@ -66,6 +68,7 @@ a {
   position: absolute;
   top: 410px;
   left: 20%;
+  font-size: 1vw;
   font-weight: bold;
   z-index: 10;
   color: #dee2e6;
